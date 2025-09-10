@@ -11,12 +11,6 @@
 - HTML5
 - React
 - CSS3
-## 📂 Projetos
-Aqui compartilho meus projetos e aprendizados da faculdade e estudos pessoais.  
-
-- [Sistema de Cadastro em Java ](#)  
-- [Exercícios de Python](#)  
-- [Consultas SQL básicas](#)  
 
 ## 📫 Contato
 - LinkedIn:www.linkedin.com/in/allan--jefinho
