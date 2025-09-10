@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Allan!
 
-<!--
-**Allan-Jefinho/Allan-Jefinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Interesse em **Desenvolvimento Web, Banco de Dados e Cloud**  
+🚀 Buscando oportunidades de estágio em **TI e Desenvolvimento de Software**  
 
-Here are some ideas to get you started:
+## 🌱 Atualmente aprendendo:
+- Java e Python  
+- SQL e Banco de Dados  
+- Git e GitHub  
+- HTML5
+- React
+- CSS3
+## 📂 Projetos
+Aqui compartilho meus projetos e aprendizados da faculdade e estudos pessoais.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Sistema de Cadastro em Java ](#)  
+- [Exercícios de Python](#)  
+- [Consultas SQL básicas](#)  
+
+## 📫 Contato
+- LinkedIn:www.linkedin.com/in/allan--jefinho
+- Email: jesusallan452@gmail.com
+
